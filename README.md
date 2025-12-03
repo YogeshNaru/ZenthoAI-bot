@@ -1,62 +1,63 @@
 # ZenthoAI-bot
-Zentho AI
 
-Zentho AI is a full-stack Generative AI web application that enables users to chat with an AI assistant and generate both text and images using the Gemini API.
+Zentho AI is a full-stack Generative AI application that enables users to chat with an AI assistant and generate both text and images using the Gemini API. The platform supports guest access as well as advanced authenticated features.
 
+---
+
+## ✨ Features
 The platform features guest mode for quick access and advanced features for authenticated users, including:
-Image generation
-Chat history
-Dark/Light mode
-Personalized experience
-This project is built with React, Node.js, Express, MongoDB, and deployed using Vercel + Render.
 
-✨ Features
-👤 Guest Mode
-No login required
-Instant AI text chat capability
+**Guest Mode**
+- 👤 Guest Mode
+- No login required
+- Instant AI text chat capability
 
-🔐 Authenticated Mode
-After login, user unlocks:
-🖼️ Image generation
-💾 Chat history storage
-🌓 Light/Dark mode preference
-👤 Personalized experience
+**🔐 Authenticated Mode**
+After login, the user unlocks:
+- 🖼️ Image generation
+- 💾 Chat history storage
+- 🌓 Light/Dark mode preference
+- 👤 Personalized experience
 
-🤖 AI Capabilities
-Text generation (Gemini)
-Image generation (Gemini)
-Smart conversational context
+**🤖 AI Capabilities**
+- Text generation
+- Image generation
+- Conversational context
 
-🌐 Tech Features
-REST API with Express
-JWT-based authentication
-MongoDB Atlas cloud storage
-Toast notifications for UX
-Fully responsive UI (vanilla CSS)
+**Tech Features**
+- REST API with Express
+- JWT authentication
+- MongoDB Atlas
+- Toast notifications
+- Responsive UI (vanilla CSS)
 
-🧰 Tech Stack
-Frontend
-React
-Vanilla CSS
-React Toastify
-Fetch API
-JWT storage handling
+---
 
-Backend
-Node.js
-Express
-MongoDB Atlas
-Mongoose
-JWT Auth
-CORS
+## 🧰 Tech Stack
 
-AI Services
-Gemini API (text + images)
+**Frontend**
+- React
+- Vanilla CSS
+- React Toastify
+- JWT handling
 
-Deployment
-Frontend: Vercel
-Backend: Render
-Database: MongoDB Atlas
+**Backend**
+- Node.js
+- Express
+- MongoDB Atlas
+- Mongoose
+- JWT Auth
+- CORS
+
+**AI Services**
+- Gemini API (text + images)
+
+**Deployment**
+- Frontend: Vercel
+- Backend: Render
+- Database: MongoDB Atlas
+
+---
 
 🔗 Live Demo
 Live Link :
